@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00cc&height=200&section=header&text=Manoj%20Kumar%20(Mojo)&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20SOC%20%26%20Detection%20Engineering&descAlignY=62&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00cc&height=200&section=header&text=Manoj%20Kumar%20Ranganathan%20(Mojo)&fontSize=34&fontColor=ffffff&desc=Cybersecurity%20%7C%20SOC%20and%20Detection%20Engineering&descAlignY=62&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManojKumar246&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManojKumar246&theme=radical" />
   <img height="165" src="https://streak-stats.demolab.com?user=ManojKumar246&theme=radical&hide_border=true" />
 </p>
 
