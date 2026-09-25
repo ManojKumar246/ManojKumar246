@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00cc&height=200&section=header&text=Manoj%20Kumar%20Ranganathan%20(Mojo)&fontSize=34&fontColor=ffffff&desc=Cybersecurity%20%7C%20SOC%20and%20Detection%20Engineering&descAlignY=62&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff00cc&height=220&section=header&text=Manoj%20Kumar%20Ranganathan%20(Mojo)&fontSize=34&fontColor=ffffff&fontAlign=50&fontAlignY=32&desc=Cybersecurity%20%7C%20SOC%20and%20Detection%20Engineering&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
