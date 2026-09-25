@@ -18,4 +18,4 @@ Master of Cybersecurity student at **Swinburne University of Technology** (Melbo
 `Wazuh` `TheHive` `Cortex` `MISP` `Shuffle` `Linux` `WSL2` `Docker` `Python` `PHP` `C` `Git`
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:you@example.com) · [LeetCode](https://leetcode.com/MOJOOO__/)
+[LinkedIn](https://www.linkedin.com/in/manojr11/) · [Email](mailto:manojmellon22@gmail.com) · [LeetCode](https://leetcode.com/MOJOOO__/)
